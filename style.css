@@ -5,7 +5,7 @@
 
 .container{
     height:100vh;
-    width:1000px;
+    width:1020px;
     margin: auto;
    }
 
@@ -41,4 +41,8 @@ h4, h5{
 
 #blue-text{
     color: rgb(43, 127, 184);
+}
+
+caption{
+    font-size: 5px;
 }
