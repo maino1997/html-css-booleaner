@@ -55,3 +55,20 @@ caption{
 ul{
     margin-left: 15px;
 }
+
+table{
+    margin-top: 20px;
+}
+
+thead{
+    background-color: rgb(43, 127, 220);
+    color: white;
+}
+
+#little{
+    width: 250px;
+}
+
+#big{
+    width:500px;
+}
