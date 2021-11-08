@@ -14,7 +14,9 @@ header{
     width: 100%;
     background-color: rgb(67, 135, 180);
     background-image: url(img/pattern.png);
-    background-repeat: repeat-x;   
+    background-repeat: repeat-x; 
+    background-size: 350px 200px;
+    background-position: top;  
 }
 
 #logo1{
