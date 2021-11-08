@@ -66,14 +66,15 @@ table{
 thead{
     background-color: rgb(43, 127, 220);
     color: white;
+    width:1000px;
 }
 
 #little{
-    width: 250px;
+    width: 16%;
 }
 
 #big{
-    width:500px;
+    width:32%;
 }
 
 .blue-row{
