@@ -14,14 +14,13 @@ header{
     width: 100%;
     background-color: rgb(43, 127, 184);
     background-image: url(img/pattern.png);
-    background-repeat: repeat-x;
-    
+    background-repeat: repeat-x;   
 }
 
 #logo1{
     height: 100px;
     width: 200px;
-    margin-top: 35px;
+    margin-top: 45px;
 }
 
 main{
@@ -54,7 +53,7 @@ p{
 }
 
 ul{
-    margin-left: 15px;
+    margin-left: 18px;
 }
 
 table{
