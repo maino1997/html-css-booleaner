@@ -76,3 +76,19 @@ thead{
 .blue-row{
     background-color: rgb(118, 173, 235);
 }
+
+#first-footer{
+    width: 250px;
+    height: 200px;
+    background-image: url(img/monitor.jpg);
+}
+
+#second-footer{
+    width: 250px;
+    height: 200px;
+    background-image: url(img/graph.jpg);   
+}
+
+.yellow{
+   background-color:yellow;
+}
