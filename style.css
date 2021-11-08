@@ -81,13 +81,20 @@ thead{
     width: 250px;
     height: 200px;
     background-image: url(img/monitor.jpg);
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 #second-footer{
     width: 250px;
     height: 200px;
-    background-image: url(img/graph.jpg);   
-}
+    background-image: url(img/graph.jpg); 
+    color: white;
+    font-size: 30px;
+}  
+
 
 .yellow{
    background-color:yellow;
