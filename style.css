@@ -10,9 +10,9 @@
    }
 
 header{
-    height: 130px;
+    height: 110px;
     width: 100%;
-    background-color: rgb(43, 127, 184);
+    background-color: rgb(67, 135, 180);
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;   
 }
@@ -20,7 +20,8 @@ header{
 #logo1{
     height: 100px;
     width: 200px;
-    margin-top: 45px;
+    vertical-align: middle;
+    margin-left: 300px;
 }
 
 main{
@@ -40,7 +41,7 @@ h4, h5{
 }
 
 #blue-text{
-    color: rgb(43, 127, 184);
+    color: rgb(67, 135, 180);
 }
 
 .piede{
@@ -95,6 +96,7 @@ thead{
     color: white;
     font-size: 20px;
     text-align: center;
+    margin-bottom: 10px;
 }  
 
 
