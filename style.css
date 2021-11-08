@@ -15,6 +15,7 @@ header{
     background-color: rgb(43, 127, 184);
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
+    
 }
 
 #logo1{
@@ -43,8 +44,8 @@ h4, h5{
     color: rgb(43, 127, 184);
 }
 
-caption{
-    font-size: 5px;
+.piede{
+    font-size: 12px;
 }
 
 p{
@@ -82,7 +83,8 @@ thead{
     height: 200px;
     background-image: url(img/monitor.jpg);
     color: white;
-    font-size: 30px;
+    font-size: 20px;
+    text-align: center;
     margin-bottom: 10px;
     margin-top: 10px;
 }
@@ -92,7 +94,8 @@ thead{
     height: 200px;
     background-image: url(img/graph.jpg); 
     color: white;
-    font-size: 30px;
+    font-size: 20px;
+    text-align: center;
 }  
 
 
