@@ -4,7 +4,7 @@
 }
 
 .container{
-    height:100vh;
+    height:100%;
     width:1020px;
     margin: auto;
    }
@@ -46,3 +46,10 @@ h4, h5{
 caption{
     font-size: 5px;
 }
+
+#first-p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
