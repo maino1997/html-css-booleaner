@@ -81,27 +81,23 @@ thead{
     background-color: rgb(118, 173, 235);
 }
 
-#first-footer{
+.footer{
     width: 250px;
     height: 200px;
-    background-image: url(img/monitor.jpg);
     color: white;
     font-size: 20px;
     text-align: center;
     margin-bottom: 10px;
+}
+
+#first-footer{
+    background-image: url(img/monitor.jpg);
     margin-top: 10px;
 }
 
-#second-footer{
-    width: 250px;
-    height: 200px;
+#second-footer{   
     background-image: url(img/graph.jpg); 
-    color: white;
-    font-size: 20px;
-    text-align: center;
-    margin-bottom: 10px;
 }  
-
 
 .yellow{
    background-color:yellow;
