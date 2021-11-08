@@ -72,3 +72,7 @@ thead{
 #big{
     width:500px;
 }
+
+.blue-row{
+    background-color: rgb(118, 173, 235);
+}
