@@ -19,11 +19,13 @@ header{
     background-position: top;  
 }
 
+/* meglio aggiungere alla classe container per centrarlo meglio */
+
 #logo1{
     height: 100px;
     width: 200px;
     vertical-align: middle;
-    margin-left: 170px;
+    margin-left: 170px;        
 }
 
 main{
