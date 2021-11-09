@@ -55,8 +55,11 @@ p{
     margin-bottom: 20px;
 }
 
+/* allineare ul senza calcolare margini */
+
 ul{
-    margin-left: 18px;
+    padding-left: 0;
+    list-style-position: inside;  
 }
 
 table{
