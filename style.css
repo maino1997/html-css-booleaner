@@ -81,6 +81,10 @@ thead{
     background-color: rgb(118, 173, 235);
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .footer{
     width: 250px;
     height: 200px;
