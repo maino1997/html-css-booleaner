@@ -72,15 +72,11 @@ table{
 thead{
     background-color: rgb(43, 127, 220);
     color: white;
-    width:1000px;
 }
 
-#little{
-    width: 16%;
-}
 
 #big{
-    width:32%;
+    width:50%;
 }
 
 .blue-row{
