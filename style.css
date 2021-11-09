@@ -58,8 +58,9 @@ p{
 /* allineare ul senza calcolare margini */
 
 ul{
-    padding-left: 0;
+    /* padding-left: 0; */
     list-style-position: inside;  
+    padding-inline-start: 0;
 }
 
 table{
